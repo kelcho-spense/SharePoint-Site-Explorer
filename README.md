@@ -1,4 +1,11 @@
-# .NET v7.0 console app connected to Microsoft Graph
+# SharePoint Site Explorer
+
+- This project uses the Microsoft Graph API to interact with SharePoint sites. It authenticates the user using Azure.Identity and retrieves information about a SharePoint site using its name and ID. It also demonstrates how to enumerate site columns of the root site.
+
+## Hack Together: Microsoft Graph and .NET 🦒
+![Alt text](https://github.com/microsoft/hack-together/raw/main/assets/HackTogetherRoadmap.png)
+
+## .NET v7.0 console app connected to Microsoft Graph
 
 This is a template for a console application built using .NET v7.0 that connects to Microsoft Graph.
 
